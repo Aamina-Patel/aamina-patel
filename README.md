@@ -5,21 +5,12 @@ Welcome to my GitHub profile! I’m an Assistant Management Accountant and passi
 ---
 
 ## About Me
-I have a strong background in **statistics, data visualisation**, and **SQL**, with a growing expertise in **Python** and **R** for data manipulation and analysis. My focus is on solving business problems through data and making data-driven decisions accessible to all stakeholders.
+I have a strong background in **statistics, data visualisation**, and **SQL**, with a growing expertise in **Python** and **R** for data manipulation and analysis. My focus is on solving business problems through data and making data driven decisions accessible to all stakeholders.
 
 - **Languages:** Python, R, SQL
 - **Tools:** Tableau, Power BI, Jupyter, Excel
 - **Databases:** MySQL
-- **Libraries:** Pandas, Matplotlib, Seaborn
 - **Other Skills:** Data Cleaning, Data Visualisation, Data Modelling
-
----
-
-## How to Reach Me
-
-- **Email:** [aamina7869@gmail.com](mailto:aamina7869@gmail.com)
-- **LinkedIn:** [Aamina Patel](https://linkedin.com/in/aamina-patel)
-- **Personal Website:** [datascienceportfol.io](https://www.datascienceportfol.io/aaminapatel)
 
 ---
 
