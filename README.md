@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aamina Patel – Data Analyst
 
-Welcome to my GitHub profile! I’m a passionate Data Analyst who loves turning raw data into meaningful insights to drive decision making. I specialise in data cleaning, exploratory data analysis, and building predictive models. I’m constantly learning new techniques to improve my analytical skills and stay up to date with the latest tools and trends.
+Welcome to my GitHub profile! I’m an Assistant Management Accountant and passionate Data Analyst who loves turning raw data into meaningful insights to drive decision making. I specialise in data cleaning, exploratory data analysis, and building predictive models. I’m constantly learning new techniques to improve my analytical skills and stay up to date with the latest tools and trends.
 
 ---
 
