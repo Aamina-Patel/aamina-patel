@@ -15,11 +15,6 @@ I have a strong background in **statistics, data visualisation**, and **SQL**, w
 
 ---
 
-## GitHub Stats
-![Your stats](https://github-readme-stats.vercel.app/api?username=Aamina-Patel&show_icons=true&theme=radical)
-
----
-
 ## How to Reach Me
 
 - **Email:** [aamina7869@gmail.com](mailto:aamina7869@gmail.com)
@@ -34,8 +29,8 @@ In addition to analysing data, I love exploring new datasets, solving puzzles, a
 ---
 
 ## Certifications & Achievements
-- **Google Data Analytics Professional Certificate**
+- Google Data Analytics Professional Certificate
 
 ---
 
-**Feel free to explore my repositories, ask questions, or connect with me if you have interesting data projects in mind!** 👩‍💻
+**Feel free to explore my repositories, ask questions, or connect with me!**
