@@ -20,6 +20,7 @@ In addition to analysing data, I love exploring new datasets, solving puzzles, a
 ---
 
 ## Certifications & Achievements
+- Realcare Tech Mark Data Analyst Mentorship Programme - competitive programme that started with over 300 participants and ended with 11 finalists including myself
 - Google Data Analytics Professional Certificate
 
 ---
