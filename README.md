@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m an Assistant Management Accountant and passi
 Currently, I am working as an Assistant Management Accountant and do Data Analyst work in my spare time, aiming to transition into a full time Data Analyst role. I have a strong background in **statistics, data visualisation**, and **SQL**, with a growing expertise in **Python** and **R** for data manipulation and analysis. My focus is on solving business problems through data and making data driven decisions accessible to all stakeholders.
 
 - **Languages:** Python, R, SQL
-- **Tools:** Tableau, Power BI, DAX, Jupyter Notebook, Excel
+- **Tools:** Tableau, Power BI, DAX, Jupyter Notebook, Visual Studio Code, Excel
 - **Databases:** MySQL
 - **Other Skills:** Data Cleaning, Data Visualisation, Data Modelling
 
